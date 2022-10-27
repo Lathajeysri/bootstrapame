@@ -1,0 +1,401 @@
+
+.headermar{
+    margin-top: -5px !important;
+     font-family:RobotoCondensed;
+     font-size:16px;
+     font-weight: normal;
+    
+ }
+ 
+ .logo{
+ font-weight: bold;
+ font-size: 60px !important;
+ -webkit-transform:rotate(-90deg) !important;
+ display:inline-block !important;
+ padding:5px 0px 5px 10px !important;
+ position: relative !important;
+ bottom:40% !important;
+ left:10% !important;
+ color:white !important;
+ }
+ .navbar-brand{
+ position:relative !important;
+ padding: 0px 30px 0px 20px!important;
+  position:relative !important;
+ height:60px !important
+ 
+ 
+ }
+ .below{
+ padding:0px !important;
+ position: absolute !important;
+ top:50% !important;
+ left:20% !important
+     }
+     .btn-dark{
+         border-radius:30px !important;
+      }
+     .btn-primary{
+         font-style:NotoSansHebrew !important;
+         font-weight: bold !important;
+         font-size: 16px !important;
+       padding-top: 5px !important;
+         }
+.setheight{
+    height:35px;
+}
+.box{
+    height:50px;
+}
+.queen{
+   display:flex;
+   align-items: center;
+}
+.lady{
+    display: flex;
+    align-items: center;
+    justify-content:center;
+}
+.boxthird{
+    height:400px;
+}
+.texttroutnew{
+    -webkit-text-stroke:1px  white !important;
+    -webkit-text-fill-color:transparent !important;
+   color:white;
+    font-size: 50px;
+    }
+    .texttrout{
+        font-style: NotoSansHebrew  !important;
+        font-weight: bolder;
+        font-size: 50px;
+        color: white !important;
+        font-weight: bold;
+    }
+    .day{
+        display:flex;
+        }
+        .dayleft{
+            margin: 0 0 0 5px;
+
+        }
+.textcash{
+        font-family:RobotoCondensed;
+        font-weight:bold;
+        font-size:50px;
+        }
+ .dollar{
+         color:rgb(158 3 161);
+        font-weight:bold;
+        font-size:50px;
+        }
+.drawn{
+          width:100%;
+            font-size: 30px;
+            font-family:RobotoCondensed;
+            font-weight: bold;
+        }
+.tocenter{
+  display:flex;
+    justify-content: center;
+    align-items: center;
+ 
+}
+.smallhei{
+    height:20%;
+}  
+.minihei{
+    height:70px;
+ }
+.miniheimar{
+    margin-left:26px !important;
+}
+.miniheimarthr{
+    margin-left:45px !important;
+}
+.stake{
+    color:rgb(158 3 161);
+    font-weight: bold;
+}
+.all{
+    align-items:end;
+    display: flex;
+    justify-content:end;
+}
+.feature{
+    font-style: NotoSansHebrew  !important;
+    font-weight: bolder;
+   color:rgb(207,207,207) !important;
+}
+.setimaheight{
+    height:400px;
+}
+
+.rowpos{
+    position:relative !important;
+
+}
+.imgpos{
+    position:absolute !important;
+
+}
+
+.join{
+    top: 95px !important;
+    left:40px !important;
+ }
+
+.middle{
+    width:95%;
+    margin: auto !important;
+}
+
+.parafor{
+    font-family: NotoSansHebrew !important;
+    font-weight: bold !important;
+  text-align: center;
+    margin:20px !important;
+   }
+   .pararoy{
+    font-family: NotoSansHebrew !important;
+    font-weight: bold !important;
+    text-align: center;
+    margin:17px 0px 5px 0px !important;  
+   }
+
+.setwid{
+    width:50px !important;
+}
+.paranew{
+    font-family: NotoSansHebrew !important;
+   font-weight: bold;
+    top:240px !important;
+    left:35px !important;
+    font-size: 15px !important;
+     
+}
+
+.tourcash{
+    color: green;
+    font-weight: bold;
+}
+.sdollar{
+    margin: 8px 0 0 5px;
+}
+.rupes{
+    font-size: 23px;
+    color:green;
+    font-weight: bold;
+}
+.setheightrow{
+    height:50px;
+}
+.sixdivhei{
+    height:400px;
+}
+.royalwid{
+    width:85% !important;
+    margin:auto !important;
+}
+.royalhei{
+    height:100px !important;
+    width:100px !important;
+  }
+  .royalce{
+    justify-content:center !important;
+    align-items: center !important
+  }
+  .royalcend{
+    margin-top:6px;
+    text-align: end;
+  }
+  .royalfont{
+font-size: 12px;
+  }
+   .golden{
+   background-color: rgb(249,198,18) !important;
+ border-radius: 20px !important;
+    width:70% !important;
+    height:90% !important;
+      }
+.goldenone{
+background-color: rgb(249,198,18) !important;
+ border-radius: 20px !important;
+ width:50% !important;
+ height:90% !important;
+}
+.goldentwo{
+    background-color: rgb(249,198,18) !important;
+     border-radius: 20px !important;
+     width:40% !important;
+     height:90% !important;
+    }
+    .goldenthree{
+        background-color: rgb(249,198,18) !important;
+         border-radius: 20px !important;
+         width:30% !important;
+         height:90% !important;
+        }
+
+      .progress{
+        width:80% !important;
+margin:auto;
+    }
+
+.progtext{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center; 
+    margin:10px 0 0 0;
+}
+.placeprog{
+    margin-bottom:50px !important;
+}
+.jackpot{
+    height:75px;
+    width:75px;
+}
+.joinprog{
+    top:-50% !important;
+    left:200px !important;
+}
+.merging{
+    width:250px ;
+    height:375px;
+    border-radius: 5px;
+}
+.fourpic{
+    height:150px;
+    width:150px;
+}
+.secondpar{
+    font-family:NotoSansHebrew !important;
+font-size:17px !important;
+} 
+.setgap{
+    height:15px;
+}
+.btn-secondary{
+    font-family:NotoSansHebrew-ExtraCondensedBold !important;
+    font-size:18px !important;
+    padding:5px 10px 5px 10px !important;
+    border-radius: 0 !important;
+    background-color: rgb(76 91 111) !important;
+}   
+.btn-warning{
+background-color:rgba(76, 91, 111, 0) !important;
+border:rgba(76 ,91, 111, 0) !important;
+color:white !important;
+font-size: 18px !important;
+border-radius: 0 !important;
+}
+.backimg{
+    background-image:url(feat.png) !important;
+    background-size:100% 100% !important;
+}
+.stroke-text{
+    -webkit-text-stroke:1px white !important;
+    -webkit-text-fill-color:transparent !important;
+    font-weight: bold;
+    font-size: 50px;
+    margin:-10px 0px 0px 15px !important;
+  }
+  .bluebox{
+    height:60px;
+    width:60px;
+    background-color:rgb(13,113,235);
+    border-radius: 5px;
+  }
+  .eight{
+    font-weight: bold;
+    font-size: 60px !important;
+    -webkit-transform:rotate(-90deg) !important;
+    display:inline-block !important;
+color:white !important;
+}
+.qrcode{
+    height:60px;
+    width:60px;
+}
+.blueheight{
+    height:80px;
+}
+.imgheiapp{
+    height:20px;
+    width:50px;
+}
+.bigpicheight{
+    height:500px;
+}
+.tobringcenter{
+    display:flex;
+   align-items: center;
+}
+.bigpicimg{
+    background-image: url(royalingpng.png);
+    background-size: 100% 100%;
+}
+@media (max-width: 576px)
+{
+    .bigpicimg{
+        background-image:none;
+        background-color:blue;
+    }   
+}
+.vidhei{
+    height:65px !important;
+}
+.img-thumbnail{
+    border-color:rgb(76,91,111) !important ;
+    border-width: 20px !important;
+padding :0px !important;
+border-radius: 15px !important;
+}
+.vidjoin{
+    top:100px;
+    left:150px;
+ 
+}
+.vidmar{
+    height:25px;
+}
+.videohei{
+height: 350px;
+}
+.vidwid{
+    width:90% !important;
+    margin:auto !important;
+   }
+   .ladyhei{
+    height:700px;
+   }
+   .gametext{
+    font-style: NotoSansHebrew  !important;
+    font-weight: bolder;
+    color: white !important;
+    font-weight: bold;
+   }
+   .gamestroke{
+    -webkit-text-stroke:1px  white !important;
+    -webkit-text-fill-color:transparent !important;
+   color:white;
+}
+.footimg{
+    height:40px;
+    width:40px;
+}
+.centerfooter{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .parafoot{
+    color:rgb(207,207,207) !important;
+    }
+    .setfoot{
+        height:200px;
+    }
+    .setbackfoot{
+        background-color:rgba(76,91,111,0.56);
+    }
